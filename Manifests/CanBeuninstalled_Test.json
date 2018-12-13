@@ -1,0 +1,9 @@
+{
+    "sourceName": "CanBeUninstalled_Test",
+    "addins": [
+		{
+			"name": "Uninstall test",
+            "metadataUrl": "https://www.dropbox.com/s/peb0g5s15q35sb2/chemdraw-addin-metadata.json?dl=1"
+        }
+    ]
+}

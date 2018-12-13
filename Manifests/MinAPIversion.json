@@ -1,0 +1,9 @@
+{
+    "sourceName": "Min_API test",
+    "addins": [
+		{
+			"name": "Doc viewer",
+            "metadataUrl": "https://www.dropbox.com/s/7qxlei2wta705wh/chemdraw-addin-metadata.json?dl=1"
+        }
+    ]
+}

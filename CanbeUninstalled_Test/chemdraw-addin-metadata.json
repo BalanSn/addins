@@ -1,0 +1,8 @@
+{
+    "description": "To test import add-in functionality",
+    "version": "1.0",
+    "menuItemText": "Test Import Add-in",
+    "minimumAPIVersion": "1.0",
+	"canBeUninstalled": false,
+    "url": "https://www.dropbox.com/s/3ac9z0l4mw8dt4l/main.html?dl=1"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "An example add-in that demonstrates the usage of ChemDraw JavaScript API for adding and getting data in the active document. The supported data formats are Base64 CDX, CDXML, PNG, InChI, InChIKey, MolV2000, MolV3000, RXNV2000, RXNV3000, and SMILES.",
+    "version": "1.0",
+    "menuItemText": "Document Data API Tester for PNG-MinAPITester",
+	"minimumAPIVersion": "25.0",
+    "url": "https://www.google.co.in/"
+	
+}

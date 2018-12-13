@@ -1,0 +1,13 @@
+{
+    "sourceName": "Doc viewer",
+    "addins": [
+        {
+            "name": "Doc viewer1",
+            "metadataUrl": "https://www.dropbox.com/s/zjphx6e9c05i7ff/chemdraw-addin-metadata.json?dl=1"
+		},
+		{
+			"name": "Doc viewer2",
+            "metadataUrl": "https://www.dropbox.com/s/t0d5kitk8iz9eio/chemdraw-addin-metadata.json?dl=1"
+        }
+    ]
+}
