@@ -8,6 +8,12 @@
 		{
 			"name": "Doc viewer2",
             "metadataUrl": "https://www.dropbox.com/s/zjphx6e9c05i7ff/chemdraw-addin-metadata.json?dl=1"
+        },
+		{
+			"name": "Doc viewer3",
+            "metadataUrl": "https://raw.githubusercontent.com/BalanSn/addins/master/Document%20Data%20API%20Tester_MinAPI1/chemdraw-addin-metadata.json"
         }
     ]
 }
+
+
