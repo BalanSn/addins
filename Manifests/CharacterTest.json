@@ -1,0 +1,9 @@
+{
+    "sourceName": "LongCharacter test",
+    "addins": [
+		{
+			"name": "48charlongname",
+            "metadataUrl": "https://raw.githubusercontent.com/BalanSn/addins/master/character_test/48characterLongName_HelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorld/chemdraw-addin-metadata.json"
+        }
+    ]
+}
