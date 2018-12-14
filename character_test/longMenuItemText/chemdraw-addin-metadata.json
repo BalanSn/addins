@@ -1,0 +1,7 @@
+{
+    "description": "A simple ChemDraw add-in with description. ",
+    "version": "1.0",
+    "menuItemText": "HelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorld",
+    "minimumAPIVersion": "1.0",
+    "url": "main.html"
+}
